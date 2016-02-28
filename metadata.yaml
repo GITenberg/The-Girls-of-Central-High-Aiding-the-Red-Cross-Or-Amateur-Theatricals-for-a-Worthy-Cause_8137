@@ -1,0 +1,22 @@
+_repo: The-Girls-of-Central-High-Aiding-the-Red-Cross-Or-Amateur-Theatricals-for-a-Worthy-Cause_8137
+creator:
+  author:
+    agent_name: Morrison, Gertrude W.
+    gutenberg_agent_id: '2659'
+    url: http://www.gutenberg.org/2009/agents/2659
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8137'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Red Cross and Red Crescent -- Juvenile fiction'
+- !lcsh 'High school students -- Juvenile fiction'
+title: "The Girls of Central High Aiding the Red Cross\r\nOr, Amateur Theatricals\
+  \ for a Worthy Cause"
+url: http://www.gutenberg.org/ebooks/8137
